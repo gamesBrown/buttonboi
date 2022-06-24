@@ -1,0 +1,24 @@
+.buttoni{
+
+    border-radius: 20px;
+    border-top-color: turquoise;
+    border-left-color: turquoise;
+    border-right-color: turquoise;
+    border-bottom-color: turquoise;
+    color:turquoise;
+    
+}
+
+.plus{
+    border-radius: 100%;
+    background-color: aquamarine;
+    color: aliceblue;
+    border-width: 0;
+}
+
+.account{
+    background-color: blue;
+    color: aliceblue;
+    box-shadow: 5px 5px black;
+    
+}
